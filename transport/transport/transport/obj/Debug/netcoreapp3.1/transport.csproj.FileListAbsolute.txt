@@ -1,0 +1,32 @@
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\bin\Debug\netcoreapp3.1\transport.exe
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\bin\Debug\netcoreapp3.1\transport.deps.json
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\bin\Debug\netcoreapp3.1\transport.runtimeconfig.json
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\bin\Debug\netcoreapp3.1\transport.runtimeconfig.dev.json
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\bin\Debug\netcoreapp3.1\transport.dll
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\bin\Debug\netcoreapp3.1\transport.pdb
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.Form1.resources
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.csproj.GenerateResource.cache
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.AssemblyInfoInputs.cache
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.AssemblyInfo.cs
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.dll
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.pdb
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.genruntimeconfig.cache
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\bin\Debug\netcoreapp3.1\transport.exe
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\bin\Debug\netcoreapp3.1\transport.deps.json
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\bin\Debug\netcoreapp3.1\transport.runtimeconfig.json
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\bin\Debug\netcoreapp3.1\transport.runtimeconfig.dev.json
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\bin\Debug\netcoreapp3.1\transport.dll
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\bin\Debug\netcoreapp3.1\transport.pdb
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.Form1.resources
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.csproj.GenerateResource.cache
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.AssemblyInfoInputs.cache
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.AssemblyInfo.cs
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.dll
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.pdb
+C:\Users\alexs\OneDrive\Рабочий стол\папка\хранилище\учебное\4 семестр\ООП\Серов\coursework_1.9\transport\transport\obj\Debug\netcoreapp3.1\transport.genruntimeconfig.cache
